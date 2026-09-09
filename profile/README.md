@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Norvok Research Division" width="240">
 </div>
 
-# Norvok Research Division
+# Nordvok Research Division
 
 Internal research and tooling archive.
 
