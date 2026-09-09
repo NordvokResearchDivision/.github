@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Norvok Research Division" width="240">
+  <img src="logo.png" alt="Nordvok Research Division" width="240">
 </div>
 
 # Nordvok Research Division
